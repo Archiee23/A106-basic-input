@@ -25,4 +25,4 @@ radius = float(input("Enter the radius of the cone: "))
 slant_height = math.sqrt(height ** 2 + radius ** 2)
 surface_area = math.pi * radius ** 2 + math.pi * radius * slant_height
 
-print("The surface area of the cone is", surface_area)
+print(surface_area)
