@@ -27,7 +27,7 @@ email = input("What is your email: ")
 
 print(f"Your name is {name}, and your email is {email}.")
 
-What is your name:Tory Lanez
-What is your email:tori.lanez@gmail.com
+What is your name: Tory Lanez
+What is your email: tori.lanez@gmail.com
 
 Your name is Tory Lanez, and your email is tori.lanez@gmail.com
